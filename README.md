@@ -35,8 +35,7 @@ else:
 - [x] Hybrid Recommendation System
 
 1. Popularity Based
-<img src="https://user-images.githubusercontent.com/34812655/115681547-7cdfb180-a309-11eb-8eeb-583d7b41dd4a.png" width="100" height="100">
-![image](https://user-images.githubusercontent.com/34812655/115681547-7cdfb180-a309-11eb-8eeb-583d7b41dd4a.png)
+<img src="https://user-images.githubusercontent.com/34812655/115681547-7cdfb180-a309-11eb-8eeb-583d7b41dd4a.png" width="200" height="200">
 
 
 
