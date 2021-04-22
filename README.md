@@ -15,6 +15,7 @@ This dataset has product id, which is a unique identifier for all products on am
 **DOWNLOAD ELECTRONICS.tx.gz
 ## CODE SNIPPET TO DO SO
 '''
+
    from os import path
 if path.exists("ratings_Electronics.csv"):
     print ("Data Exists")
