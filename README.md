@@ -3,11 +3,13 @@
 A recommendation engine is a system that suggests products, services, information to users based on analysis of data. 
 Notwithstanding, the recommendation can derive from a variety of factors such as the history of the user and the behaviour of similar users.
 
-## Our Idea To Do the Task in More Efficient Way -
+## PROBLEM FACED BY CUSTOMERS -
 
-We have build a robust recommender system for Amazon Products. 
-We have used various Machine Learning algorithms and tested them. We have used Electronics dataset. 
-This dataset has product id, which is a unique identifier for all products on amazon.com. It also contains the star rating given by each user identified by the user id.
+Customers can spend hours scrolling through hundreds, sometimes thousands of items of merchandise never finding an item they like. Shoppers need to be provided suggestions based on their likes and needs in order to create a better shopping environment that boosts sales and increases the time spent on a website. This helps to boost their sales and also has better customer experience throughout the process.
+
+## Idea To Do the Task in More Efficient Way -
+
+To Build a Recommendor System that are beneficial to both service providers and users. They reduce transaction costs of finding and selecting items in an online shopping environment. Focus Area is Ecommerce, where recommender systems enhance revenues for the fact that they are effective means of selling more products. In scientific libraries, recommender systems support users by allowing them to move beyond catalog searches. Therefore, the need to use efficient and accurate recommendation techniques within a system that will provide relevant and dependable recommendations for users cannot be over-emphasized.
 
 
 # DATASET USED TO ACHIEVE TASK
