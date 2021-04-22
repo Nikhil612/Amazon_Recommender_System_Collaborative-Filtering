@@ -15,6 +15,7 @@ This dataset has product id, which is a unique identifier for all products on am
 - [ ] Collaborative filtering 
 - [ ] Hybrid Recommendation System
 
+1. 
 
 2. Collaborative filtering
    - Collaborative filtering using Singular value decomposition
@@ -24,6 +25,9 @@ This dataset has product id, which is a unique identifier for all products on am
      
 ![image](https://user-images.githubusercontent.com/34812655/115670709-916a7c80-a2fe-11eb-8375-b5da7f7e0ecf.png)
 
+3. Hybrid Recommendor System
+
+![image](https://user-images.githubusercontent.com/34812655/115671587-87954900-a2ff-11eb-820d-4fe95a2305a1.png)
 
 
 
