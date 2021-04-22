@@ -65,14 +65,17 @@ else:
 ## COLLABORATIVE APPROACH
 
 **ITEM-ITEM COLLABORATIVE**
+
 ![image](https://user-images.githubusercontent.com/34812655/115682938-ca105300-a30a-11eb-8c52-629c96d0b92a.png)
 
 **USER-USER COLLABORATIVE**
+
 ![image](https://user-images.githubusercontent.com/34812655/115683078-ef9d5c80-a30a-11eb-8dcf-8d94da0336e5.png)
 
 
 
 ## HYBRID SYSTEM
+
 ![image](https://user-images.githubusercontent.com/34812655/115683272-21162800-a30b-11eb-80f8-42542d2569b6.png)
 
 
