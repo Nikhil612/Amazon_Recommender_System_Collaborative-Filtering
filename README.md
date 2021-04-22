@@ -13,13 +13,15 @@ This dataset has product id, which is a unique identifier for all products on am
 
 - [ ] Popularity based
 - [ ] Collaborative filtering 
+- [ ] Hybrid Recommendation System
 
 
-![image](https://user-images.githubusercontent.com/34812655/115670709-916a7c80-a2fe-11eb-8375-b5da7f7e0ecf.png)
-
+2. Collaborative filtering
    - Collaborative filtering using Singular value decomposition
     - Collaborative filtering using KNN With means (user-user similarity)
      - Collaborative filtering using KNN With means (item-item similarity)
+![image](https://user-images.githubusercontent.com/34812655/115670709-916a7c80-a2fe-11eb-8375-b5da7f7e0ecf.png)
 
-- [ ] Hybrid Recommendation System
+
+
 
