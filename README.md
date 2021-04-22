@@ -63,9 +63,11 @@ else:
 
 
 ## COLLABORATIVE APPROACH
-**ITEM-ITEM COLLABORATIVE
+
+**ITEM-ITEM COLLABORATIVE**
 ![image](https://user-images.githubusercontent.com/34812655/115682938-ca105300-a30a-11eb-8c52-629c96d0b92a.png)
-**USER-USER COLLABORATIVE
+
+**USER-USER COLLABORATIVE**
 ![image](https://user-images.githubusercontent.com/34812655/115683078-ef9d5c80-a30a-11eb-8dcf-8d94da0336e5.png)
 
 
