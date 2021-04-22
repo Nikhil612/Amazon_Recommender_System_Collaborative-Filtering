@@ -9,8 +9,13 @@ We have build a robust recommender system for Amazon Products.
 We have used various Machine Learning algorithms and tested them. We have used Electronics dataset. 
 This dataset has product id, which is a unique identifier for all products on amazon.com. It also contains the star rating given by each user identified by the user id.
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+## Algorithms To Rescue
+
+- [x] Popularity based
+- [ ] Collaborative filtering using Singular value decomposition
+- [ ] Collaborative filtering using KNN With means (user-user similarity)
+- [ ] Collaborative filtering using KNN With means (item-item similarity)
+- [ ] Hybrid Recommendation System
 
 
+![image](https://user-images.githubusercontent.com/34812655/115670346-2d47b880-a2fe-11eb-9331-27adc624d5c0.png)
