@@ -41,14 +41,15 @@ else:
 
 2. Collaborative filtering
    - Collaborative filtering using Singular value decomposition
-     <img src="https://user-images.githubusercontent.com/34812655/115673650-b90f1400-a301-11eb-8397-65d1981edaef.png" width="200" height="200">
+   <img src="https://user-images.githubusercontent.com/34812655/115673650-b90f1400-a301-11eb-8397-65d1981edaef.png" width="200" height="200">
+   
 
-    - Collaborative filtering using KNN With means (user-user similarity)
-      <img src="https://user-images.githubusercontent.com/34812655/115673343-5fa6e500-a301-11eb-9b29-194419f862c0.png" width="200" height="200">
+   - Collaborative filtering using KNN With means (user-user similarity)
+   <img src="https://user-images.githubusercontent.com/34812655/115673343-5fa6e500-a301-11eb-9b29-194419f862c0.png" width="200" height="200">
 
       
-     - Collaborative filtering using KNN With means (item-item similarity)
-       <img src="https://user-images.githubusercontent.com/34812655/115673015-ff17a800-a300-11eb-9145-adfff5ccbb3c.png" width="200" height="200">
+   - Collaborative filtering using KNN With means (item-item similarity)
+   <img src="https://user-images.githubusercontent.com/34812655/115673015-ff17a800-a300-11eb-9145-adfff5ccbb3c.png" width="200" height="200">
        
 
 3. Hybrid Recommendor System
