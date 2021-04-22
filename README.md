@@ -11,7 +11,7 @@ This dataset has product id, which is a unique identifier for all products on am
 
 
 # DATASET USED TO ACHIEVE TASK
-**[ElctronicsProducts_Ratings_DATASET](http://snap.stanford.edu/data/web-Amazon-links.html)
+[ElctronicsProducts_Ratings_DATASET](http://jmcauley.ucsd.edu/data/amazon/)
 **DOWNLOAD ELECTRONICS.tx.gz
 ## CODE SNIPPET TO DO SO
 '''
