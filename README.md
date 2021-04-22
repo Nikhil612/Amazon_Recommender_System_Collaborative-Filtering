@@ -14,10 +14,10 @@ This dataset has product id, which is a unique identifier for all products on am
 [ElctronicsProducts_Ratings_DATASET](http://jmcauley.ucsd.edu/data/amazon/)
 **DOWNLOAD ELECTRONICS.tx.gz
 
-CODE SNIPPET TO DO SO:
-'''
 
-   from os import path
+CODE SNIPPET TO DO SO:
+```
+from os import path
 if path.exists("ratings_Electronics.csv"):
     print ("Data Exists")
     Data=pd.read_csv('ratings_Electronics.csv',names=('userId','productId','ratings','timestamp'))
@@ -25,9 +25,7 @@ if path.exists("ratings_Electronics.csv"):
 else:
     os.system('curl http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Electronics.csv -o ratings_Electronics.csv')
     print('Done downloading')
-    
-    '''
-
+```
 
 
 ## Algorithms To Rescue
