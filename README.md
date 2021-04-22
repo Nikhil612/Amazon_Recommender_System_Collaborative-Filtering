@@ -23,6 +23,8 @@ This dataset has product id, which is a unique identifier for all products on am
    - Collaborative filtering using Singular value decomposition
     - Collaborative filtering using KNN With means (user-user similarity)
      - Collaborative filtering using KNN With means (item-item similarity)
+       ![image](https://user-images.githubusercontent.com/34812655/115673015-ff17a800-a300-11eb-9145-adfff5ccbb3c.png)
+
      
      
 ![image](https://user-images.githubusercontent.com/34812655/115671860-ccb97b00-a2ff-11eb-902d-bf729bce3468.png)
