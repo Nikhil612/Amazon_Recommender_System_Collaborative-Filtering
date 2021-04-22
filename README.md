@@ -72,11 +72,17 @@ else:
 
 ![image](https://user-images.githubusercontent.com/34812655/115683078-ef9d5c80-a30a-11eb-8dcf-8d94da0336e5.png)
 
+**Singular Value Decomposition**
+
+![image](https://user-images.githubusercontent.com/34812655/115683272-21162800-a30b-11eb-80f8-42542d2569b6.png)
 
 
 ## HYBRID SYSTEM
 
-![image](https://user-images.githubusercontent.com/34812655/115683272-21162800-a30b-11eb-80f8-42542d2569b6.png)
+![image](https://user-images.githubusercontent.com/34812655/115683629-7f430b00-a30b-11eb-81ba-29d0a1309437.png)
+
+
+
 
 
 
