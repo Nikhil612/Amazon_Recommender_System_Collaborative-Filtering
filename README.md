@@ -9,7 +9,23 @@ We have build a robust recommender system for Amazon Products.
 We have used various Machine Learning algorithms and tested them. We have used Electronics dataset. 
 This dataset has product id, which is a unique identifier for all products on amazon.com. It also contains the star rating given by each user identified by the user id.
 
-[ElctronicsProducts_Ratings_DATASET](http://snap.stanford.edu/data/amazon)
+
+# DATASET USED TO ACHIEVE TASK
+**[ElctronicsProducts_Ratings_DATASET](http://snap.stanford.edu/data/web-Amazon-links.html)
+**DOWNLOAD ELECTRONICS.tx.gz
+## CODE SNIPPET TO DO SO
+'''
+   from os import path
+if path.exists("ratings_Electronics.csv"):
+    print ("Data Exists")
+    Data=pd.read_csv('ratings_Electronics.csv',names=('userId','productId','ratings','timestamp'))
+    print('Data Loaded')
+else:
+    os.system('curl http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Electronics.csv -o ratings_Electronics.csv')
+    print('Done downloading')
+    '''
+
+
 
 ## Algorithms To Rescue
 
