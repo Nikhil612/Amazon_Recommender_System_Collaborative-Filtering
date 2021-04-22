@@ -86,6 +86,20 @@ else:
 
 
 
+## References
+
+[1]	https://towardsdatascience.com/web-scraping-recommender-systems-project-1d360fa678e4
+
+[2]	https://towardsdatascience.com/how-to-build-a-model-based-recommendation-system-using-python-surprise-2df3b77ab3e5
+
+[3]	https://towardsdatascience.com/deep-learning-based-recommender-systems-3d120201db7e
+
+[4]	https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf
+
+[5]	https://medium.com/@madasamy/introduction-to-recommendation-systems-and-how-to-design-recommendation-system-that-resembling-the-9ac167e30e95
+
+[6]	https://towardsdatascience.com/product-recommender-using-amazon-review-dataset-e69d479d81dd
+
 
 
 
