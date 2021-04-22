@@ -30,12 +30,12 @@ else:
 
 ## Algorithms To Rescue
 
-- [ ] Popularity based
-- [ ] Collaborative filtering 
-- [ ] Hybrid Recommendation System
+- [x] Popularity based
+- [x] Collaborative filtering 
+- [x] Hybrid Recommendation System
 
 1. Popularity Based
-
+![image](https://user-images.githubusercontent.com/34812655/115681547-7cdfb180-a309-11eb-8eeb-583d7b41dd4a.png)
 
 
 2. Collaborative filtering
