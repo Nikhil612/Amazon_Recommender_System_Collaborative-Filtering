@@ -54,7 +54,8 @@ else:
 
 3. Hybrid Recommendor System
 
-![image](https://user-images.githubusercontent.com/34812655/115671587-87954900-a2ff-11eb-820d-4fe95a2305a1.png)
+<img src="https://user-images.githubusercontent.com/34812655/115671587-87954900-a2ff-11eb-820d-4fe95a2305a1.png" width="200" height="200">
+
 
 
 
